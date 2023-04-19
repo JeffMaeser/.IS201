@@ -33,6 +33,9 @@ body{
     font-family: didot;
     font-weight: bold;
   }
+  li{
+    text-align: left;
+  }
   .line{
     color: midnightblue;
     font-size: 75%;
